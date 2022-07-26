@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+div{
+    font-size:32px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+}

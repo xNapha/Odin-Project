@@ -1,0 +1,12 @@
+.button{
+    font-size: 28px;
+    font: Helvetica, 'Times New Roman', sans-serif
+}
+.button.first{
+    color: rgba(255,255,255,1);
+    background-color: rgba(100,100,100,1);
+}
+.button.second{
+    color: rgba(20,100,105,1);
+    background-color: rgba(255,255,0,1);
+}
