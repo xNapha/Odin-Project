@@ -27,3 +27,10 @@
 #closet{
     grid-area: closet;
 }
+.advContainer{
+    display:grid;
+    position:relative;
+    top: 100px;
+    grid-template: 1/1/2/6;
+    background-color: purple;
+}
